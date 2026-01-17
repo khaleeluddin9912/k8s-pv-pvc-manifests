@@ -1,7 +1,7 @@
 kind: PersistentVolume
 apiVersion: v1
 metadata:
-  name: local-
+  name: local-pv
   namespace: nginx
   labels:
     app: local
