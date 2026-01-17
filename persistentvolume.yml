@@ -4,7 +4,6 @@ metadata:
   name: local-pv
   namespace: nginx
   labels:
-  
     app: local
 spec:
   capacity:
