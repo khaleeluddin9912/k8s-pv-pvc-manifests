@@ -18,4 +18,5 @@ spec:
   storageClassName: local-storage
   
   hostPath:
+  
     path: /mnt/data
